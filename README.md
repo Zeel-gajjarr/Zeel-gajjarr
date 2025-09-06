@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Zeel :> </h1>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/9a14dffc-66c8-4156-9656-e155a86b03db" />
 "/>
 </a>
