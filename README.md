@@ -1,17 +1,17 @@
-<h1 align="center">٠ ࣪⭑Hi , I'm Zeel ʚ ɞ </h1>
+<h1 align="center">٠ ࣪⭑ Hi , I'm Zeel ʚ ɞ </h1>
 <img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/1fa654e0-06cc-4df6-a7f2-a994a15a49b4" />
 
 
 </a>
 <h3 align="center">I like everything art and nature ⋆｡‧˚ʚ🌕ɞ˚‧｡⋆ </h3>
 
-- 🔭 I’m currently working on **Quantum Random key Genertor**
+- I’m currently working on **Quantum Random key Genertor**
 
-- 🌱 I’m currently learning **cybersec, Quantum computin, nueral networks**
+- I’m currently learning **cybersec, Quantum computin, nueral networks**
 
-# 💻 Tech Stack:
+# 💗 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
+# 💗 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zeel-gajjarr&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zeel-gajjarr&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeel-gajjarr&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
