@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Zeel :> </h1>
-  <img height="50" src="<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/9a14dffc-66c8-4156-9656-e155a86b03db" />
-"/>
+![Gif](<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/8f7dd229-70d6-4b10-9b15-3c6aa197e0d3" />
+)
+
 </a>
 <h3 align="center">I like everything art and nature ⋆｡‧˚ʚ🧸ɞ˚‧｡⋆ </h3>
 
