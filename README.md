@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeel</h1>
+<h1 align="center">Hi , I'm Zeel✰</h1>
 <h3 align="center">i be survivin</h3>
 
 - 🔭 I’m currently working on **Quantum Random key Genertor**
