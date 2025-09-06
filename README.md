@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Zeel :> </h1>
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/8f7dd229-70d6-4b10-9b15-3c6aa197e0d3" />
+<img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/1fa654e0-06cc-4df6-a7f2-a994a15a49b4" />
+" />
 
 
 </a>
