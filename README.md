@@ -3,6 +3,6 @@
 
 
 </a>
-<h3 align="center">I like everything art and nature ⋆｡‧˚ʚ🌕ɞ˚‧｡⋆ </h3>
+<h3 align="center">⋆.˚ I like everything art and nature ⋆｡‧˚ʚ🌕ɞ˚‧｡⋆ </h3>
 
 - I’m currently **⋆.˚ High**
