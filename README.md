@@ -19,7 +19,8 @@
  # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=shadow_blue&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&layout=compact&title_color=0000FF&text_color=FFFFFF&bg_color=000000&icon_color=0000FF)
+
 <p align="center">
   <b>｡･:*:･ﾟ★,｡･:*:･ﾟ☆</b> <br>
   <i>thanks for stopping by! 🩷✨</i><br>
