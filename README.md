@@ -17,9 +17,9 @@
 
 ---
  # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeefromzee&show_icons=true&bg_color=0D1117&hide_border=false&border_color=2A6F64&title_color=3CB9A0&text_color=C9D1D9&icon_color=3CB9A0&border_radius=5)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=shadow_blue&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&layout=compact&bg_color=00000000&hide_border=false&border_color=40E0D0&border_radius=5&title_color=40E0D0&text_color=FFFFFF&icon_color=40E0D0&cache_seconds=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&layout=compact&bg_color=0D1117&hide_border=false&border_color=2A6F64&title_color=3CB9A0&text_color=C9D1D9&icon_color=3CB9A0&border_radius=5&cache_seconds=30)
 
 <p align="center">
   <b>｡･:*:･ﾟ★,｡･:*:･ﾟ☆</b> <br>
