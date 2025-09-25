@@ -17,8 +17,8 @@
 
 ---
  # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zeefromee&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zeefrom&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=shadow_blue&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&layout=compact&bg_color=00000000&hide_border=false&border_color=40E0D0&border_radius=5&title_color=40E0D0&text_color=FFFFFF&icon_color=40E0D0&cache_seconds=30)
 
 <p align="center">
