@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Zeel ʚ ɞ </h1>
-<img
-     src="![Image](https://github.com/user-attachments/assets/158842ce-6690-42f6-84fe-47920bc67298)" />
+<img src="https://github.com/user-attachments/assets/158842ce-6690-42f6-84fe-47920bc67298" width="900" />
+
 
 <p align="center">
   <i>welcome to my corner of the internet!</i><br>
