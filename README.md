@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <b>｡･:*:･ﾟ★,｡･:*:･ﾟ☆</b> <br>
+  <b>｡･:*:･ﾟ★ My Fav Quote~,｡･:*:･ﾟ☆</b> <br>
   <i>By believing in what does not yet exist, we create it </i><br>
   <i>-Franz Kafka</i><br>
   <b>✧༚♡༚✧</b>
