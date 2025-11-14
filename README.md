@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Zeel ʚ ɞ </h1>
-<img width="900" style="border: 2px solid white;" 
+<img
      src="![Image](https://github.com/user-attachments/assets/158842ce-6690-42f6-84fe-47920bc67298)" />
 
 <p align="center">
