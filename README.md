@@ -3,9 +3,9 @@
 ---
 
 <p align="center">
-  <b>｡･:*:･ﾟ★ My Fav Quote~,｡･:*:･ﾟ☆</b> <br>
+  <b> **My Fav Quote**</b> <br>
   <i>By believing in what does not yet exist, we create it </i><br>
   <i>-Franz Kafka</i><br>
-  <b>✧༚♡༚✧</b>
+  <!-- <b>✧༚♡༚✧</b> -->
 </p>
 
