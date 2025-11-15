@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7E98D&center=true&vCenter=true&width=490&lines=making+magic+with+code;beep+boop+beep;by+believing+in+what+does+not+yet+exist+,;we+create+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7E98D&center=true&vCenter=true&width=490&lines=making+magic+with+code;beep+boop+beep;By+believing+in+what+does+not+yet+exist+,;we+create+it" alt="Typing SVG" />
 
 <!-- <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&size=18&duration=3000&pause=1000&color=F7E98D&center=true&vCenter=true&width=500&lines=making+magic+with+code+✧˖°;beep+boop+beep+beep;by+believing+in+what+does+not+yet+exist,;we+create+it+⋆｡˚" alt="Typing SVG" /> -->
@@ -30,8 +30,6 @@
 ![Julia](https://img.shields.io/badge/Julia-2C2F3E?style=for-the-badge&logo=julia&logoColor=9B87D4)
 ![OpenGL](https://img.shields.io/badge/OpenGL-2C2F3E?style=for-the-badge&logo=opengl&logoColor=9B87D4)
 ![LaTeX](https://img.shields.io/badge/LaTeX-2C2F3E?style=for-the-badge&logo=latex&logoColor=6BA4D8)
-![Figma](https://img.shields.io/badge/Figma-2C2F3E?style=for-the-badge&logo=figma&logoColor=F7E98D)
-![Blender](https://img.shields.io/badge/Blender-2C2F3E?style=for-the-badge&logo=blender&logoColor=F7E98D)
 
 </div>
 
@@ -51,9 +49,9 @@
  <i>-Franz Kafka (my fav philosopher) (˶˃ ᵕ ˂˶)</i><br>  -->
  <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
 <!-- <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&layout=compact" alt="languages" /> -->
-<img width="45%" src="https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=midnight-purple&hide_border=true&background=0d1117&ring=F7E98D&fire=F7E98D&currStreakLabel=F7E98D&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakNum=F7E98D&dates=9B87D4" alt="streak" />
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=midnight-purple&hide_border=true&background=0d1117&ring=F7E98D&fire=F7E98D&currStreakLabel=F7E98D&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakNum=F7E98D&dates=9B87D4" alt="streak" />
 <!-- </div>
 
 ---
