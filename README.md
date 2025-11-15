@@ -55,9 +55,8 @@
 </div>
 
 ---
----
 <i>˚    ✦   .  .   ˚ .      . ✦     ˚     . ★⋆.</i><br>
-<i>.     ˚ *     ✦   .  .   ✦ ˚      ˚ .˚      .  .   ˚ .             ✦</i>
+<i>.     ˚ *     ✦   .  .   ✦ ˚      ˚ .˚      .  .   ˚ .             ✦</i><br>
 <i>"by believing in what does not yet exist, we create it"</i><br>
 <i>— franz kafka(my fav philosopher) (˶˃ ᵕ ˂˶) ✧˖°</i><br>
 
