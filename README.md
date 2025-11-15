@@ -3,14 +3,12 @@
 
 <p align="center">
   <b> Here's a quote I love</b> <br>
-  <!-- <i>By believing in what does not yet exist, we create it </i><br> -->
-
+ 
   <!-- <b>✧༚♡༚✧</b> -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7E98D&center=true&vCenter=true&width=435&lines=making+magic+with+code;beep+boop+beep;by+believing+in+what+does+not+yet+exist;we+create+it" alt="Typing SVG" />
-<i>-Franz Kafka (my fav philosopher) (˶˃ ᵕ ˂˶)</i><br>
 
 
 </div>
@@ -47,6 +45,8 @@
 </div>
 
 
+ <i>By believing in what does not yet exist, we create it </i><br> 
+ <i>-Franz Kafka (my fav philosopher) (˶˃ ᵕ ˂˶)</i><br> 
 
 
 </div>
