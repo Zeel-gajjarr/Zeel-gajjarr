@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Zee ʚ ɞ </h1>
-<img src="https://github.com/user-attachments/assets/158842ce-6690-42f6-84fe-47920bc67298" width="600" />
+<img src="https://github.com/user-attachments/assets/158842ce-6690-42f6-84fe-47920bc67298" width="900" />
 
 <p align="center">
   <b> Here's a quote I love</b> <br>
