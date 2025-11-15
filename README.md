@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### tech stack
+### Tech Stack⋆.˚୨ৎ
 
 ![C](https://img.shields.io/badge/C-2C2F3E?style=for-the-badge&logo=c&logoColor=F7E98D)
 ![C++](https://img.shields.io/badge/C++-2C2F3E?style=for-the-badge&logo=c%2B%2B&logoColor=F7E98D)
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-### stats
+### Stats⋆.˚
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
 
@@ -49,9 +49,9 @@
 
  <i>By believing in what does not yet exist, we create it </i><br> 
  <i>-Franz Kafka (my fav philosopher) (˶˃ ᵕ ˂˶)</i><br>  -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
 <!-- <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&layout=compact" alt="languages" /> -->
-<img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=midnight-purple&hide_border=true&background=0d1117&ring=F7E98D&fire=F7E98D&currStreakLabel=F7E98D&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakNum=F7E98D&dates=9B87D4" alt="streak" />
+<img width="45%" src="https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=midnight-purple&hide_border=true&background=0d1117&ring=F7E98D&fire=F7E98D&currStreakLabel=F7E98D&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakNum=F7E98D&dates=9B87D4" alt="streak" />
 <!-- </div>
 
 ---
