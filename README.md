@@ -38,7 +38,7 @@
 
 ### stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=midnight-purple&hide_border=true&background=0d1117&ring=F7E98D&fire=F7E98D&currStreakLabel=F7E98D&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakNum=F7E98D&dates=9B87D4" alt="streak" />
 
@@ -48,7 +48,19 @@
 
 
  <i>By believing in what does not yet exist, we create it </i><br> 
- <i>-Franz Kafka (my fav philosopher) (˶˃ ᵕ ˂˶)</i><br> 
+ <i>-Franz Kafka (my fav philosopher) (˶˃ ᵕ ˂˶)</i><br>  -->
+stats ˚ ༘♡ ⋆｡˚
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&layout=compact" alt="languages" />
+<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=midnight-purple&hide_border=true&background=0d1117&ring=F7E98D&fire=F7E98D&currStreakLabel=F7E98D&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakNum=F7E98D&dates=9B87D4" alt="streak" />
+<!-- </div>
+─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ─── 
+<div align="center"> -->
+"by believing in what does not yet exist, we create it"
+— franz kafka(my fav philosopher) (˶˃ ᵕ ˂˶) ✧˖°
+˚    ✦   .  .   ˚ .      . ✦     ˚     . ★⋆.
+.     ˚ *     ✦   .  .   ✦ ˚      ˚ .˚      .  .   ˚ .             ✦
+making magic happen one commit at a time (•◡•)>
 
 
 </div>
