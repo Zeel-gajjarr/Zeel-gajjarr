@@ -54,10 +54,12 @@
 <img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=zeefromzee&theme=midnight-purple&hide_border=true&background=0d1117&ring=F7E98D&fire=F7E98D&currStreakLabel=F7E98D&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakNum=F7E98D&dates=9B87D4" alt="streak" />
 </div>
 
-
-<i>"by believing in what does not yet exist, we create it"</i><br>
-<i>— franz kafka(my fav philosopher) (˶˃ ᵕ ˂˶) ✧˖°</i><br>
+---
+---
 <i>˚    ✦   .  .   ˚ .      . ✦     ˚     . ★⋆.</i><br>
 <i>.     ˚ *     ✦   .  .   ✦ ˚      ˚ .˚      .  .   ˚ .             ✦</i>
+<i>"by believing in what does not yet exist, we create it"</i><br>
+<i>— franz kafka(my fav philosopher) (˶˃ ᵕ ˂˶) ✧˖°</i><br>
+
 <div align="center">
 
